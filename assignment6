@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Data Visualization Assignment #2</title>
+
+	<style type="text/css"> body{max-width:900px;margin-right:auto;margin-left:auto;padding:8px}.header{background-color:gray;color:#fff;font-family:Arial,sans-serif;padding:1px;margin-bottom:30px;text-align:center}
+	</style>
+
+	
+</head>
+<body>
+
+	<div class="header">
+		<h2>Data Visualization Assignment #6</h2>
+	</div>
+
+	<h3>By: Caleb Jaramillo</h3>
+
+	<img src="https://media.cnn.com/api/v1/images/stellar/prod/231024113812-01-aaron-rodgers-injury-10512.jpg?c=16x9&q=h_720,w_1280,c_fill">
+
+	<p> This graph shows all of the current passing touchdowns leaders in the NFl thorughout their career. New York Jets quarterback Aaron Rodgers leads the way with 475 touch in his 17-year career.</p>
+
+	<iframe title="[Active NFL Leaders In Passing Touchdowns ]" aria-label="Bar chart" id="datawrapper-chart-4zsh7" src="https://datawrapper.dwcdn.net/4zsh7/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="542" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+	</script>
+	
+
+</body>
+</html>
